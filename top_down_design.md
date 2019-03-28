@@ -1,0 +1,84 @@
+How to get food at a restaurant
+
+- Reservations
+  - Choose Cuisine
+    - Italian
+      - Google top rated restaurants
+        - Select restaurant
+          - Call to make reservation
+            - Select from available times
+    - Sushi
+      - Google top rated restaurants
+        - Select restaurant
+          - Call to make reservation
+            - Select from available times
+    - Steak
+      - Google top rated restaurants
+        - Select restaurant
+          - Call to make reservation
+            - Select from available times
+- Travel to restaurant
+  - Uber
+    - Open App
+      - Select destination
+        - Confirm ride
+  - Public transportation
+    - Bus
+      - Check bus schedule
+        - Walk to bus
+          - Board bus
+            - Pay fare
+    - Train
+     - Check train schedule
+      - Walk to train
+        - Pay fare
+          - Board train
+  - Drive
+    - Unlock car
+      - Get in vehicle
+        - Start car
+          - Drive to restaurant
+            - Park on street
+            - Valet car
+              - Give valet car keys
+                - Pay for valet parking
+              - Get valet ticket  
+
+- Ordering
+  - Tonights specials
+    - Shared meal (small plates/family style)
+      - Order Appetizers
+      - Order Main Dish
+      - Order Dessert
+    - Individual meal
+      - Order Appetizers
+      - Order Main Dish
+      - Order Dessert
+  - Regular menu
+    - Shared meal (small plates/family style)
+      - Order Appetizers
+      - Order Main Dish
+      - Order Dessert
+    - Individual meal
+      - Order Appetizers
+      - Order Main Dish
+      - Order Dessert
+- Payment
+  - Single bill
+    - Cash
+      - Pay bill
+        - Get change
+    - Check
+      - Write check
+    - Credit Card
+      - Run Credit Card
+        - Sign receipt
+  - Split bill
+    - Cash
+      - Pay bill
+        - Get change
+    - Check
+      - Write check
+    - Credit Card
+      - Run Credit Card
+        - Sign receipt
