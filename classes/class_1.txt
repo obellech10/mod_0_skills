@@ -8,4 +8,4 @@ free_refill(boolean)
 
 order_size(select size)
 calories_per_serving(First take order_size to get calories & servings, then divide calories by servings)
-order_refill(first determine if free_refill is true, if yes refill is given)
+order_refill(first determine if free_refill is true or false, if true accept refill, if false decline refill)
