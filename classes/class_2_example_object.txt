@@ -1,0 +1,10 @@
+Dominos
+
+number_locations: 25
+employees: 200
+days_open: mon - Y, tue - Y, wed - Y, thu - y, fri - y, sat - y, sun - n
+deliver(true)
+
+employees_location: 8
+offer_delivery: yes
+open(sun): false
