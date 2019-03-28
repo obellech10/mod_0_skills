@@ -1,0 +1,10 @@
+Pizza Restaurant
+
+number_locations(integer)
+employees(integer)
+days_open(hash)
+deliver(boolean)
+
+employees_location(take the total number of locations and divide by employees)
+offer_delivery(check if deliver attribute, if true yes offer_delivery)
+open(var) - check days_open hash, if open on day inputed return true, if not return false
