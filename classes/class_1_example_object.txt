@@ -1,0 +1,10 @@
+Beer
+
+size: 24
+calories: 220
+servings: 2
+free_refill: false
+
+ order_size: 16
+ calories_per_serving: 110
+ order_refill: decline
